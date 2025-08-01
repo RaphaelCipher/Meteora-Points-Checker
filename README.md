@@ -1,5 +1,7 @@
 # Meteora-Points-Checker
 
+<img width="780" height="212" alt="image" src="https://github.com/user-attachments/assets/804f3a67-f653-41f2-afe3-b27455b6048f" />
+
 ## Requirements
 
 - Python 3.7+
